@@ -1,0 +1,267 @@
+<mockup version="1.0" skin="sketch" fontFace="Balsamiq Sans" measuredW="1059" measuredH="1507" mockupW="1042" mockupH="1500">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::BrowserWindow" x="17" y="7" w="800" h="1500" measuredW="450" measuredH="400" zOrder="0" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Juan%20Ramon%20Sanabria%20Ch.%20%0Ahttp%3A//%20juansanabria.com</text>
+      </controlProperties>
+    </control>
+    <control controlID="2" controlTypeID="com.balsamiq.mockups::Image" x="32" y="90" w="764" h="200" measuredW="77" measuredH="79" zOrder="1" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="4" controlTypeID="com.balsamiq.mockups::Canvas" x="32" y="299" w="764" h="280" measuredW="100" measuredH="70" zOrder="2" locked="false" isInGroup="-1"/>
+    <control controlID="5" controlTypeID="com.balsamiq.mockups::Label" x="368" y="115" w="-1" h="-1" measuredW="99" measuredH="21" zOrder="3" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Imagen%20de%20fondo</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Label" x="345" y="216" w="-1" h="-1" measuredW="145" measuredH="21" zOrder="4" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logo%20de%20la%20empresa%20%28%BF%3F%29</text>
+      </controlProperties>
+    </control>
+    <control controlID="7" controlTypeID="com.balsamiq.mockups::Label" x="395" y="360" w="-1" h="-1" measuredW="45" measuredH="21" zOrder="7" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Historia</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::Canvas" x="47" y="314" w="740" h="112" measuredW="100" measuredH="70" zOrder="5" locked="false" isInGroup="-1"/>
+    <control controlID="9" controlTypeID="com.balsamiq.mockups::Canvas" x="47" y="434" w="740" h="130" measuredW="100" measuredH="70" zOrder="6" locked="false" isInGroup="-1"/>
+    <control controlID="10" controlTypeID="com.balsamiq.mockups::Label" x="395" y="489" w="-1" h="-1" measuredW="40" measuredH="21" zOrder="8" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Logros</text>
+      </controlProperties>
+    </control>
+    <control controlID="11" controlTypeID="com.balsamiq.mockups::Canvas" x="32" y="587" w="764" h="469" measuredW="100" measuredH="70" zOrder="9" locked="false" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Canvas" x="47" y="602" w="740" h="200" measuredW="100" measuredH="70" zOrder="10" locked="false" isInGroup="-1"/>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::Canvas" x="47" y="815" w="740" h="227" measuredW="100" measuredH="70" zOrder="11" locked="false" isInGroup="-1"/>
+    <control controlID="16" controlTypeID="com.balsamiq.mockups::Webcam" x="365" y="617" w="104" h="87" measuredW="177" measuredH="146" zOrder="12" locked="false" isInGroup="-1"/>
+    <control controlID="17" controlTypeID="com.balsamiq.mockups::Label" x="404" y="711" w="-1" h="-1" measuredW="26" measuredH="21" zOrder="13" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>JRS</text>
+      </controlProperties>
+    </control>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Label" x="62" y="732" w="710" h="-1" measuredW="1287" measuredH="21" zOrder="14" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS</text>
+      </controlProperties>
+    </control>
+    <control controlID="19" controlTypeID="com.balsamiq.mockups::Webcam" x="75" y="836" w="104" h="87" measuredW="177" measuredH="146" zOrder="15" locked="false" isInGroup="-1"/>
+    <control controlID="20" controlTypeID="com.balsamiq.mockups::Label" x="81" y="930" w="-1" h="-1" measuredW="93" measuredH="21" zOrder="16" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Empleado%20clave</text>
+      </controlProperties>
+    </control>
+    <control controlID="27" controlTypeID="com.balsamiq.mockups::Webcam" x="249" y="836" w="104" h="87" measuredW="177" measuredH="146" zOrder="17" locked="false" isInGroup="-1"/>
+    <control controlID="28" controlTypeID="com.balsamiq.mockups::Label" x="255" y="930" w="-1" h="-1" measuredW="93" measuredH="21" zOrder="18" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Empleado%20clave</text>
+      </controlProperties>
+    </control>
+    <control controlID="29" controlTypeID="com.balsamiq.mockups::Webcam" x="455" y="836" w="104" h="87" measuredW="177" measuredH="146" zOrder="19" locked="false" isInGroup="-1"/>
+    <control controlID="30" controlTypeID="com.balsamiq.mockups::Label" x="461" y="930" w="-1" h="-1" measuredW="93" measuredH="21" zOrder="20" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Empleado%20clave</text>
+      </controlProperties>
+    </control>
+    <control controlID="31" controlTypeID="com.balsamiq.mockups::Webcam" x="648" y="836" w="104" h="87" measuredW="177" measuredH="146" zOrder="21" locked="false" isInGroup="-1"/>
+    <control controlID="32" controlTypeID="com.balsamiq.mockups::Label" x="654" y="930" w="-1" h="-1" measuredW="93" measuredH="21" zOrder="22" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Empleado%20clave</text>
+      </controlProperties>
+    </control>
+    <control controlID="33" controlTypeID="com.balsamiq.mockups::Label" x="58" y="966" w="139" h="-1" measuredW="136" measuredH="21" zOrder="23" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perfil%20Perfil%20Perfil%20Perfil%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="34" controlTypeID="com.balsamiq.mockups::Label" x="58" y="985" w="139" h="-1" measuredW="136" measuredH="21" zOrder="24" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perfil%20Perfil%20Perfil%20Perfil%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="35" controlTypeID="com.balsamiq.mockups::Label" x="232" y="985" w="139" h="-1" measuredW="136" measuredH="21" zOrder="25" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perfil%20Perfil%20Perfil%20Perfil%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="36" controlTypeID="com.balsamiq.mockups::Label" x="440" y="985" w="139" h="-1" measuredW="136" measuredH="21" zOrder="26" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perfil%20Perfil%20Perfil%20Perfil%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="37" controlTypeID="com.balsamiq.mockups::Label" x="631" y="985" w="139" h="-1" measuredW="136" measuredH="21" zOrder="27" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perfil%20Perfil%20Perfil%20Perfil%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="38" controlTypeID="com.balsamiq.mockups::Label" x="58" y="1006" w="139" h="-1" measuredW="136" measuredH="21" zOrder="28" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perfil%20Perfil%20Perfil%20Perfil%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="39" controlTypeID="com.balsamiq.mockups::Label" x="232" y="1006" w="139" h="-1" measuredW="136" measuredH="21" zOrder="29" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perfil%20Perfil%20Perfil%20Perfil%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="40" controlTypeID="com.balsamiq.mockups::Label" x="440" y="1006" w="139" h="-1" measuredW="136" measuredH="21" zOrder="30" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perfil%20Perfil%20Perfil%20Perfil%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="41" controlTypeID="com.balsamiq.mockups::Label" x="631" y="1006" w="139" h="-1" measuredW="136" measuredH="21" zOrder="31" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perfil%20Perfil%20Perfil%20Perfil%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="42" controlTypeID="com.balsamiq.mockups::Label" x="631" y="966" w="139" h="-1" measuredW="136" measuredH="21" zOrder="32" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perfil%20Perfil%20Perfil%20Perfil%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="43" controlTypeID="com.balsamiq.mockups::Label" x="440" y="966" w="139" h="-1" measuredW="136" measuredH="21" zOrder="33" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perfil%20Perfil%20Perfil%20Perfil%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="44" controlTypeID="com.balsamiq.mockups::Label" x="232" y="966" w="139" h="-1" measuredW="136" measuredH="21" zOrder="34" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perfil%20Perfil%20Perfil%20Perfil%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="45" controlTypeID="com.balsamiq.mockups::Label" x="62" y="747" w="710" h="-1" measuredW="1287" measuredH="21" zOrder="35" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS</text>
+      </controlProperties>
+    </control>
+    <control controlID="46" controlTypeID="com.balsamiq.mockups::Label" x="62" y="762" w="710" h="-1" measuredW="1287" measuredH="21" zOrder="36" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS%20-%20Perfil%20JRS</text>
+      </controlProperties>
+    </control>
+    <control controlID="47" controlTypeID="com.balsamiq.mockups::Canvas" x="32" y="1062" w="764" h="200" measuredW="100" measuredH="70" zOrder="37" locked="false" isInGroup="-1"/>
+    <control controlID="48" controlTypeID="com.balsamiq.mockups::Canvas" x="32" y="1269" w="764" h="200" measuredW="100" measuredH="70" zOrder="38" locked="false" isInGroup="-1"/>
+    <control controlID="49" controlTypeID="com.balsamiq.mockups::Label" x="375" y="1077" w="-1" h="-1" measuredW="84" measuredH="21" zOrder="39" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tipos%20de%20Obra</text>
+      </controlProperties>
+    </control>
+    <control controlID="50" controlTypeID="com.balsamiq.mockups::Paragraph" x="87" y="1098" w="660" h="35" measuredW="200" measuredH="80" zOrder="40" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra%20Tipos%20de%20Obra</text>
+      </controlProperties>
+    </control>
+    <control controlID="53" controlTypeID="com.balsamiq.mockups::Image" x="75" y="1148" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="41" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Experiencia</text>
+      </controlProperties>
+    </control>
+    <control controlID="54" controlTypeID="com.balsamiq.mockups::Image" x="172" y="1148" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="42" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Experiencia</text>
+      </controlProperties>
+    </control>
+    <control controlID="55" controlTypeID="com.balsamiq.mockups::Image" x="690" y="1148" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="43" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Experiencia</text>
+      </controlProperties>
+    </control>
+    <control controlID="56" controlTypeID="com.balsamiq.mockups::Image" x="482" y="1148" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="44" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Experiencia</text>
+      </controlProperties>
+    </control>
+    <control controlID="57" controlTypeID="com.balsamiq.mockups::Image" x="587" y="1148" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="45" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Experiencia</text>
+      </controlProperties>
+    </control>
+    <control controlID="58" controlTypeID="com.balsamiq.mockups::Image" x="276" y="1148" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="46" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Experiencia</text>
+      </controlProperties>
+    </control>
+    <control controlID="59" controlTypeID="com.balsamiq.mockups::Image" x="375" y="1148" w="-1" h="-1" measuredW="77" measuredH="79" zOrder="47" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Experiencia</text>
+      </controlProperties>
+    </control>
+    <control controlID="60" controlTypeID="com.balsamiq.mockups::Label" x="60" y="1284" w="-1" h="-1" measuredW="55" measuredH="21" zOrder="48" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Contacto</text>
+      </controlProperties>
+    </control>
+    <control controlID="61" controlTypeID="com.balsamiq.mockups::TextInput" x="57" y="1305" w="219" h="-1" measuredW="122" measuredH="27" zOrder="49" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>correo%20electr%F3nico</text>
+      </controlProperties>
+    </control>
+    <control controlID="64" controlTypeID="com.balsamiq.mockups::TextArea" x="55" y="1340" w="290" h="86" measuredW="200" measuredH="140" zOrder="50" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Asunto</text>
+      </controlProperties>
+    </control>
+    <control controlID="65" controlTypeID="com.balsamiq.mockups::Button" x="55" y="1433" w="-1" h="-1" measuredW="98" measuredH="27" zOrder="51" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Contactenos</text>
+      </controlProperties>
+    </control>
+    <control controlID="66" controlTypeID="com.balsamiq.mockups::Arrow" x="759" y="136" w="104" h="65" measuredW="150" measuredH="100" zOrder="53" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="67" controlTypeID="com.balsamiq.mockups::StickyNote" x="824" y="121" w="222" h="123" measuredW="109" measuredH="123" zOrder="52" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Imagen%20grande%20de%20alguna%20obra%20%28Tal%20vez%20varias%29%0ASi%20el%20logo%20se%20ve%20bien%2C%20la%20imagen%20de%20fondo%20seria%20borrosa</text>
+      </controlProperties>
+    </control>
+    <control controlID="68" controlTypeID="com.balsamiq.mockups::StickyNote" x="824" y="360" w="222" h="123" measuredW="109" measuredH="123" zOrder="54" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Parrafo%20peque%F1o%20con%20la%20historia%0A%20%0ALos%20logros%20como%20una%20lista%20de%20cosas%20hechas</text>
+      </controlProperties>
+    </control>
+    <control controlID="69" controlTypeID="com.balsamiq.mockups::Arrow" x="759" y="375" w="104" h="65" measuredW="150" measuredH="100" zOrder="55" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="72" controlTypeID="com.balsamiq.mockups::StickyNote" x="824" y="732" w="222" h="183" measuredW="109" measuredH="123" zOrder="56" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>El%20perfil%20de%20JRS%20siempre%20esta%20visible%20y%20ocupa%20todo%20el%20espacio.%20So%20el%20usuario%20hace%20clic%2C%20se%20expande%20la%20vista%20con%20los%20perfiles%20de%20los%20empleados%20clave.%20Segun%20cuantos%20sean%2C%20se%20divide%20el%20espacio%20entre%20todos.%20Se%20organizan%20de%20acuerdo%20al%20organigrama%20de%20la%20empresa.</text>
+      </controlProperties>
+    </control>
+    <control controlID="73" controlTypeID="com.balsamiq.mockups::Arrow" x="759" y="747" w="104" h="65" measuredW="150" measuredH="100" zOrder="57" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="74" controlTypeID="com.balsamiq.mockups::StickyNote" x="837" y="1062" w="222" h="165" measuredW="109" measuredH="123" zOrder="58" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Parrafo%20peque%F1o%20de%20los%20tipos%20de%20obra%20que%20se%20hacen.%20Galeria%20con%20la%20mejor%20foto%20de%20cada%20uno%20de%20los%20trabajos.%20Si%20el%20usuario%20hace%20clic%20en%20una%20foto%2C%20esta%20se%20expande%20y%20se%20muestra%20completa%20con%20el%20nombre%20y%20la%20fecha%20del%20trabajo%20realizado.%20</text>
+      </controlProperties>
+    </control>
+    <control controlID="75" controlTypeID="com.balsamiq.mockups::Arrow" x="772" y="1077" w="104" h="65" measuredW="150" measuredH="100" zOrder="59" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text/>
+      </controlProperties>
+    </control>
+    <control controlID="76" controlTypeID="com.balsamiq.mockups::StickyNote" x="837" y="1322" w="222" h="123" measuredW="109" measuredH="123" zOrder="60" locked="false" isInGroup="-1">
+      <controlProperties>
+        <text>Formulario%20de%20contacto.%20Todo%20mensaje%20enviado%20desde%20ahi%20llega%20directamente%20al%20correo%20electronico</text>
+      </controlProperties>
+    </control>
+    <control controlID="77" controlTypeID="com.balsamiq.mockups::Arrow" x="772" y="1337" w="104" h="65" measuredW="150" measuredH="100" zOrder="61" locked="false" isInGroup="-1">
+      <controlProperties>
+        <direction>bottom</direction>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
